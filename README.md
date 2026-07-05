@@ -1,22 +1,6 @@
 # MAPA_ESOFT-_PROGRAMA-O_FRONT_END-52_2026
 Desenvolver um site completo e responsivo em HTML5, CSS3 e JavaScript com pelo menos quatro páginas interligadas. Incluir menu de navegação, formulário de contato com validação, dois efeitos interativos em JS/jQuery e aplicar conceitos básicos de SEO no código.
 
-📑 Relatório Técnico
-No relatório, você deve incluir:
-
-Introdução: objetivo do site.
-
-Design: cores, tipografia, layout responsivo.
-
-Arquitetura: estrutura de pastas e páginas.
-
-Tecnologias: HTML5, CSS3, JavaScript.
-
-Recursos implementados: menu, formulário, efeitos, SEO.
-
-Desafios enfrentados: responsividade, validação, interatividade.
-
-Capturas de tela: mostrando cada página.
 
 # 🌐 Projeto: Cadastro Pessoal / Portfólio
 
@@ -52,11 +36,6 @@ Este projeto foi desenvolvido como parte da disciplina de **Desenvolvimento Fron
   - Botão de "voltar ao topo"
   - Efeito hover em imagens do portfólio
 - Aplicação de conceitos de SEO básico
-
----
-
-## 🖼️ Capturas de Tela
-*(Adicione imagens da execução do site aqui, por exemplo: `img/screenshot-home.png`)*
 
 ---
 
