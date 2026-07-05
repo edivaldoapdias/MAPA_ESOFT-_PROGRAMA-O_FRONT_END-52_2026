@@ -75,5 +75,19 @@ Este projeto foi desenvolvido como parte da disciplina de **Desenvolvimento Fron
 
 ---
 
+Considerações Finais
+O desenvolvimento permitiu aplicar conceitos de HTML, CSS e JavaScript em um projeto prático. Aprendi sobre responsividade, interatividade e SEO. Como melhorias futuras, o site pode incluir integração com banco de dados e mais recursos visuais.
+
+Referências:
+
+Material da disciplina de Desenvolvimento Front-End.
+
+MDN Web Docs (Mozilla).
+
+W3Schools.
+
+Cursos e tutoriais complementares sobre HTML, CSS e JavaScript.
+
+
 ## ✅ Conclusão
 O projeto aplica os conceitos estudados na disciplina, demonstrando habilidades em **HTML, CSS, JavaScript e SEO básico**, além de boas práticas de responsividade e interatividade.
